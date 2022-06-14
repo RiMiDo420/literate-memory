@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/Users/risa/.dotnet/store/|arch|/|tfm|",
+      "/Users/risa/.nuget/packages"
+    ]
+  }
+}

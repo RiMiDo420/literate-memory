@@ -1,0 +1,13 @@
+/Users/risa/Projects/Chess_Horse/Chess_Horse/bin/Debug/netcoreapp3.1/Chess_Horse.deps.json
+/Users/risa/Projects/Chess_Horse/Chess_Horse/bin/Debug/netcoreapp3.1/Chess_Horse.runtimeconfig.json
+/Users/risa/Projects/Chess_Horse/Chess_Horse/bin/Debug/netcoreapp3.1/Chess_Horse.runtimeconfig.dev.json
+/Users/risa/Projects/Chess_Horse/Chess_Horse/bin/Debug/netcoreapp3.1/Chess_Horse.dll
+/Users/risa/Projects/Chess_Horse/Chess_Horse/bin/Debug/netcoreapp3.1/Chess_Horse.pdb
+/Users/risa/Projects/Chess_Horse/Chess_Horse/obj/Debug/netcoreapp3.1/Chess_Horse.csproj.AssemblyReference.cache
+/Users/risa/Projects/Chess_Horse/Chess_Horse/obj/Debug/netcoreapp3.1/Chess_Horse.GeneratedMSBuildEditorConfig.editorconfig
+/Users/risa/Projects/Chess_Horse/Chess_Horse/obj/Debug/netcoreapp3.1/Chess_Horse.AssemblyInfoInputs.cache
+/Users/risa/Projects/Chess_Horse/Chess_Horse/obj/Debug/netcoreapp3.1/Chess_Horse.AssemblyInfo.cs
+/Users/risa/Projects/Chess_Horse/Chess_Horse/obj/Debug/netcoreapp3.1/Chess_Horse.csproj.CoreCompileInputs.cache
+/Users/risa/Projects/Chess_Horse/Chess_Horse/obj/Debug/netcoreapp3.1/Chess_Horse.dll
+/Users/risa/Projects/Chess_Horse/Chess_Horse/obj/Debug/netcoreapp3.1/Chess_Horse.pdb
+/Users/risa/Projects/Chess_Horse/Chess_Horse/obj/Debug/netcoreapp3.1/Chess_Horse.genruntimeconfig.cache
